@@ -16,3 +16,5 @@ map example :
 ...o...o..o...o
 
 ..o.o.o...o....
+
+(big map in test file)
